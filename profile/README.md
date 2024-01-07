@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome to K1ZMT projects!
 
-This a organization to hold my ham-radio projects. I believe this is a better way to organize and share them.
+Hello, my name is Philipp and my callsign is K1ZMT. 
+
+Here you will find my ham-radio projects.
+
+# Projects
+
+MagLoop Controller
+
+Experimental SSB TRX
 
