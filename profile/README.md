@@ -6,7 +6,15 @@ Here you will find my ham-radio projects.
 
 # Projects
 
-MagLoop Controller
+## WiFi MagLoop Controller
 
-Experimental SSB TRX
+[Video Demo](https://www.youtube.com/shorts/tR3TuS6j_TE)
+[Description](https://www.zoonman.com/projects/magloop-tuner/)
+[Repo](https://github.com/k1zmt/magloop-tuner)
+
+
+## Experimental SSB TRX
+
+[Video Demo](https://www.instagram.com/p/CyZjtxRpXod/)
+[Repo](https://github.com/k1zmt/SSB85MultiPCB)
 
